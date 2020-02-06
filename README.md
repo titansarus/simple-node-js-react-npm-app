@@ -138,6 +138,8 @@ container stop jenkins jenkins-docker.
             <li>Windows C:\Users\<your-username>\Documents\GitHub\ </li>
         </ul>
                  <li>سپس دستور زیر را اجرا کنید:</li>
+</ol>
+
 
 ​                
 
